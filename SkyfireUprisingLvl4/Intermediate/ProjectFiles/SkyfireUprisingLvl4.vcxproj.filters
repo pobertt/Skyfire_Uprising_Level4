@@ -41,5 +41,17 @@
     <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\SkyfireUprisingLvl4.h">
       <Filter>Source\SkyfireUprisingLvl4</Filter>
     </ClInclude>
+    <Filter Include="Source\SkyfireUprisingLvl4\Private">
+      <UniqueIdentifier>{358F5F5E-5464-37B6-8D7B-07556F48D6F5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\Private\FPSCharacter_Level4.cpp">
+      <Filter>Source\SkyfireUprisingLvl4\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SkyfireUprisingLvl4\Public">
+      <UniqueIdentifier>{E39F56C4-B04F-378F-BE7E-A0C8F42DDFC7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\Public\FPSCharacter_Level4.h">
+      <Filter>Source\SkyfireUprisingLvl4\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
