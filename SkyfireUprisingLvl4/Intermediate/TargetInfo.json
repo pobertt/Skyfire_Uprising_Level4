@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SkyfireUprisingLvl4",
+			"Path": "..\\Source\\SkyfireUprisingLvl4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SkyfireUprisingLvl4Editor",
+			"Path": "..\\Source\\SkyfireUprisingLvl4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
