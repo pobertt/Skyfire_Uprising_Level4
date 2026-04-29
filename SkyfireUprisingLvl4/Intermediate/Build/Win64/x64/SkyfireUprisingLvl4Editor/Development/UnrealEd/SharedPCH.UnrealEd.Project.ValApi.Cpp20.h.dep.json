@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\u5685806\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.cpp",
+        "Source": "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\u5685806\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h",
-            "c:\\users\\u5685806\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h",
+            "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\unrealedsharedpch.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",
@@ -408,6 +408,8 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\hal\\mallocansi.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\lockfreefixedsizeallocator.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\memstack.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\sanitizer\\asan_interface.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\sanitizer\\common_interface_defs.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\templates\\isinvocable.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\scopeexit.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\async\\fundamental\\taskshared.h",

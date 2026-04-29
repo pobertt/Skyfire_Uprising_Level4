@@ -252,7 +252,9 @@
     <None Include="..\..\SkyfireUprisingLvl4.uproject"/>
     <None Include="..\..\Source\SkyfireUprisingLvl4.Target.cs"/>
     <None Include="..\..\Source\SkyfireUprisingLvl4Editor.Target.cs"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\UpgradeLog.htm"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
