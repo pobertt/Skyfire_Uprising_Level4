@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\source\\skyfireuprisinglvl4\\skyfireuprisinglvl4.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\skyfireuprisinglvl4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\skyfireuprisinglvl4\\definitions.skyfireuprisinglvl4.h",
+            "c:\\users\\u5730946\\documents\\github\\skyfire_uprising_level4\\skyfireuprisinglvl4\\source\\skyfireuprisinglvl4\\skyfireuprisinglvl4.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
