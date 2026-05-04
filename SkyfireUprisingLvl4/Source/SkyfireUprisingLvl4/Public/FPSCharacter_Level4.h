@@ -4,7 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "InputActionValue.h"
 #include "FPSCharacter_Level4.generated.h"
+
+// Forward-declare Enhanced Input UObject types so UHT can parse the UPROPERTYs
+class UInputMappingContext;
+class UInputAction;
 
 UCLASS()
 class SKYFIREUPRISINGLVL4_API AFPSCharacter_Level4 : public ACharacter
@@ -25,5 +30,43 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+protected:
+	// Defining Inputs:
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputMappingContext* InputMapping;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* MoveAction;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* LookAction;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* JumpAction;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* PrimaryInput;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* SprintAction;
+
+	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
+	UInputAction* CrouchAction;
+
+	// Functions for inputs:
+
+	void Move(const FInputActionValue& InputValue);
+
+	void Look(const FInputActionValue& InputValue);
+
+	void Jump();
+
+	void PrimaryAction();
+
+	void Sprint(const FInputActionValue& InputValue);
+
+	void InputCrouch();
 
 };

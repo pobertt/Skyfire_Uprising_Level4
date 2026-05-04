@@ -44,13 +44,31 @@
     <Filter Include="Source\SkyfireUprisingLvl4\Private">
       <UniqueIdentifier>{358F5F5E-5464-37B6-8D7B-07556F48D6F5}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\Private\AC_Level4.cpp">
+      <Filter>Source\SkyfireUprisingLvl4\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\Private\FPSCharacter_Level4.cpp">
+      <Filter>Source\SkyfireUprisingLvl4\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\Private\GameMode_Level4.cpp">
+      <Filter>Source\SkyfireUprisingLvl4\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\Private\GameState_Level4.cpp">
       <Filter>Source\SkyfireUprisingLvl4\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SkyfireUprisingLvl4\Public">
       <UniqueIdentifier>{E39F56C4-B04F-378F-BE7E-A0C8F42DDFC7}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\Public\AC_Level4.h">
+      <Filter>Source\SkyfireUprisingLvl4\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\Public\FPSCharacter_Level4.h">
+      <Filter>Source\SkyfireUprisingLvl4\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\Public\GameMode_Level4.h">
+      <Filter>Source\SkyfireUprisingLvl4\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\Public\GameState_Level4.h">
       <Filter>Source\SkyfireUprisingLvl4\Public</Filter>
     </ClInclude>
   </ItemGroup>
