@@ -32,6 +32,12 @@
     <Filter Include="Source\SkyfireUprisingLvl4">
       <UniqueIdentifier>{AD274F8F-9626-3038-9307-33B971901448}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SkyfireUprisingLvl4\EnemyPlaneBase.cpp">
+      <Filter>Source\SkyfireUprisingLvl4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SkyfireUprisingLvl4\EnemyPlaneBase.h">
+      <Filter>Source\SkyfireUprisingLvl4</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SkyfireUprisingLvl4\SkyfireUprisingLvl4.Build.cs">
       <Filter>Source\SkyfireUprisingLvl4</Filter>
     </None>
