@@ -1,4 +1,4 @@
-"C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.cpp"
+"C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.cpp"
 /I "."
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
@@ -9,10 +9,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/Yc"C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h"
-/Fp"C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
-/Fo"C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
-/sourceDependencies "C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
+/Yc"C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h"
+/Fp"C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
+/Fo"C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
+/sourceDependencies "C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\SkyfireUprisingLvl4Editor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

@@ -80,5 +80,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=SkyfireUprisingLvl4
-/fo "C:\GamesDev\CloneStore\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkyfireUprisingLvl4\Default.rc2.res"
+/fo "C:\Users\u5730946\Documents\GitHub\Skyfire_Uprising_Level4\SkyfireUprisingLvl4\Intermediate\Build\Win64\x64\UnrealEditor\Development\SkyfireUprisingLvl4\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
