@@ -15,7 +15,6 @@ public:
 	// Sets default values for this pawn's properties
 	AEnemyPlaneBase();
 
-	
 
 protected:
 	// Called when the game starts or when spawned
@@ -29,5 +28,8 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	UFUNCTION(BlueprintCallable, Category = "Flight|AI")
-	void CalculateChaseInput(FVector TargetLocation, float& Pitch, float& Yaw, float& Roll);
+	void CalculateChaseInput(FVector TargetLocation, float& Pitch, float& Yaw, float& Roll);//caculate pitch yaw and roll ; position to player(World Axis and Local Axis)
+
+	UFUNCTION(BlueprintCallable, Category = "Flight|AI")
+	void GetLocateToPlayer(const AActor* Player, FVector& WorldVectorToPlayer, FVector& LocalVectorToPlayer);//get distance to player
 };

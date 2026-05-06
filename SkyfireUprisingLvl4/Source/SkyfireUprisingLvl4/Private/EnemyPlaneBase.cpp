@@ -34,16 +34,28 @@ void AEnemyPlaneBase::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 //Get rotate data
 void AEnemyPlaneBase::CalculateChaseInput(FVector TargetLocation, float& Pitch, float& Yaw, float& Roll)
 {
-    FVector ToTarget =
-        (TargetLocation - GetActorLocation()).GetSafeNormal();
+    //FVector ToTarget =(TargetLocation - GetActorLocation()).GetSafeNormal();
+    FVector RelativePositionToPlayer = TargetLocation - GetActorLocation();//get relative location
 
-    FVector LocalDir =
-        GetActorTransform()
-        .InverseTransformVectorNoScale(ToTarget);
+    FVector ToTarget = RelativePositionToPlayer.GetSafeNormal();
+
+    FVector LocalDir = GetActorTransform().InverseTransformVectorNoScale(ToTarget);
 
     Yaw = FMath::Clamp(LocalDir.Y, -1.f, 1.f);
     Pitch = FMath::Clamp(LocalDir.Z, -1.f, 1.f);
     Roll = FMath::Clamp(LocalDir.Y * 1.2f, -1.f, 1.f);
+}
+//get locate to player
+void AEnemyPlaneBase::GetLocateToPlayer(const AActor* Player, FVector& WorldVectorToPlayer, FVector& LocalVectorToPlayer) {
+
+    if (!Player) { 
+        UE_LOG(LogTemp, Warning, TEXT("Player does not exist!!"));
+        return; 
+    }
+
+    WorldVectorToPlayer = Player->GetActorLocation() - GetActorLocation();
+
+    LocalVectorToPlayer = Player->GetActorTransform().InverseTransformVectorNoScale(WorldVectorToPlayer);
 }
 //Auto level
 
