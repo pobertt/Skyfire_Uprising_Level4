@@ -1349,3 +1349,223 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2026.05.11-09.31.51:150][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2026.05.11-09.31.51:161][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2026.05.11-09.31.51:275][415]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.05.11-09.35.13:155][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.577637
+[2026.05.11-09.35.14:154][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-09.35.14:154][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 996.242554, Update Interval: 346.363708
+[2026.05.11-09.41.08:562][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1350.987061
+[2026.05.11-09.41.09:565][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-09.41.09:565][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1351.655396, Update Interval: 352.942902
+[2026.05.11-09.46.10:005][187]LogWindowsTextInputMethodSystem: Activated input method: 英语(英国) - (Keyboard).
+[2026.05.11-09.46.10:005][187]LogWindowsTextInputMethodSystem: Activated input method: 英语(英国) - (Keyboard).
+[2026.05.11-09.47.20:945][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.367554
+[2026.05.11-09.47.21:123][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-09.47.21:123][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.530640, Update Interval: 339.703979
+[2026.05.11-09.53.41:404][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2103.820312
+[2026.05.11-09.53.41:627][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-09.53.41:627][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2104.017334, Update Interval: 321.544861
+[2026.05.11-09.59.48:374][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2470.790771
+[2026.05.11-09.59.48:625][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-09.59.48:625][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2471.014160, Update Interval: 344.430054
+[2026.05.11-10.06.03:687][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2846.087891
+[2026.05.11-10.06.04:681][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-10.06.04:681][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2846.754639, Update Interval: 343.950317
+[2026.05.11-10.12.45:389][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3247.823486
+[2026.05.11-10.12.46:389][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-10.12.46:389][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3248.491699, Update Interval: 312.942291
+[2026.05.11-10.15.25:930][502]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2026.05.11-10.15.25:939][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.11-10.15.25:939][502]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.15.25:942][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002277s)
+[2026.05.11-10.15.25:942][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Untitled.Untitled to /Game/Maps/UEDPIE_0_Untitled.Untitled (0.002332s)
+[2026.05.11-10.15.25:954][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.05.11-10.15.25:955][502]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2026.05.11-10.15.25:956][502]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2026.05.11-10.15.25:967][502]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.11-10.15.25:967][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.11-10.15.25:967][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.11-10.15.25:967][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.11-10.15.25:967][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.11-10.15.25:967][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.11-10.15.25:970][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.11-10.15.26:283][502]LogAudioMixer: Display: Using Audio Hardware Device Speakers (SoundWire Speakers)
+[2026.05.11-10.15.26:284][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.11-10.15.26:284][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.11-10.15.26:284][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.11-10.15.26:285][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.05.11-10.15.26:285][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.05.11-10.15.26:289][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.05.11-10.15.26:289][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.05.11-10.15.26:289][502]LogInit: FAudioDevice initialized with ID 6.
+[2026.05.11-10.15.26:289][502]LogAudio: Display: Audio Device (ID: 6) registered with world 'Untitled'.
+[2026.05.11-10.15.26:289][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.11-10.15.26:292][502]LogLoad: Game class is 'GameModeBase'
+[2026.05.11-10.15.26:294][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2026.05.11-11.15.26
+[2026.05.11-10.15.26:295][502]LogWorld: Bringing up level for play took: 0.002091
+[2026.05.11-10.15.26:298][502]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.05.11-10.15.26:310][502]PIE: 登陆的服务器
+[2026.05.11-10.15.26:310][502]PIE: PIE总开始时间：0.375秒。
+[2026.05.11-10.16.14:578][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.16.14:578][952]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.16.14:579][952]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.05.11-10.16.14:580][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.16.14:580][952]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2026.05.11-10.16.14:580][952]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2026.05.11-10.16.14:586][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.11-10.16.14:595][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.16.14:616][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.16.14:616][952]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.11-10.16.14:616][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.05.11-10.16.14:620][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.05.11-10.16.14:633][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.11-10.16.14:860][953]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.05.11-10.17.24:338][205]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2026.05.11-10.17.24:353][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.11-10.17.24:353][205]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.17.24:356][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003157s)
+[2026.05.11-10.17.24:356][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Untitled.Untitled to /Game/Maps/UEDPIE_0_Untitled.Untitled (0.003230s)
+[2026.05.11-10.17.24:379][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.05.11-10.17.24:380][205]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2026.05.11-10.17.24:382][205]LogPlayLevel: PIE: World Init took: (0.001814s)
+[2026.05.11-10.17.24:395][205]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.11-10.17.24:396][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.11-10.17.24:396][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.11-10.17.24:396][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.11-10.17.24:396][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.11-10.17.24:396][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.11-10.17.24:401][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.11-10.17.24:822][205]LogAudioMixer: Display: Using Audio Hardware Device Speakers (SoundWire Speakers)
+[2026.05.11-10.17.24:823][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.11-10.17.24:823][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.11-10.17.24:823][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.11-10.17.24:826][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.05.11-10.17.24:826][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.05.11-10.17.24:830][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.05.11-10.17.24:830][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.05.11-10.17.24:830][205]LogInit: FAudioDevice initialized with ID 7.
+[2026.05.11-10.17.24:830][205]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2026.05.11-10.17.24:830][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.05.11-10.17.24:834][205]LogLoad: Game class is 'GameModeBase'
+[2026.05.11-10.17.24:835][205]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2026.05.11-11.17.24
+[2026.05.11-10.17.24:836][205]LogWorld: Bringing up level for play took: 0.001766
+[2026.05.11-10.17.24:840][205]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.05.11-10.17.24:855][205]PIE: 登陆的服务器
+[2026.05.11-10.17.24:856][205]PIE: PIE总开始时间：0.508秒。
+[2026.05.11-10.17.40:916][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.17.40:916][856]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.17.40:916][856]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.05.11-10.17.40:918][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.17.40:918][856]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2026.05.11-10.17.40:918][856]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2026.05.11-10.17.40:924][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.11-10.17.40:929][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.17.40:948][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.11-10.17.40:948][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.05.11-10.17.40:948][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.05.11-10.17.40:952][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.05.11-10.17.40:972][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.17.40:977][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.11-10.17.41:120][857]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.05.11-10.18.33:059][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.544189
+[2026.05.11-10.18.33:257][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-10.18.33:257][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.720215, Update Interval: 335.968506
+[2026.05.11-10.19.10:335][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.05.11-10.19.10:370][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Untitled_Auto2
+[2026.05.11-10.19.10:370][619]LogSavePackage: Moving '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/Untitled_Auto272C53FB346C86FD79415D585B05088E6.tmp' to '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/Autosaves/Game/Maps/Untitled_Auto2.umap'
+[2026.05.11-10.19.10:373][619]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/Autosaves/Game/Maps/Untitled_Auto2.umap is in the /Temp path, will not scan.
+[2026.05.11-10.19.10:374][619]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Untitled_Auto2 is in the /Temp path, will not scan.
+[2026.05.11-10.19.10:374][619]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Untitled_Auto2 is in the /Temp path, will not scan.
+[2026.05.11-10.19.10:374][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Untitled' took 0.060
+[2026.05.11-10.19.10:374][619]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2026.05.11-10.20.14:360][418]LogDerivedDataCache: C:/Users/u5685806/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.11-10.23.07:582][324]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - (Keyboard).
+[2026.05.11-10.23.07:583][324]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2026.05.11-10.24.39:700][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.05.11-10.24.41:042][326]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2026.05.11-10.24.41:059][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.11-10.24.41:060][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.24.41:062][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2026.05.11-10.24.41:064][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Untitled.Untitled to /Game/Maps/UEDPIE_0_Untitled.Untitled (0.003231s)
+[2026.05.11-10.24.41:097][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.11-10.24.41:099][326]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2026.05.11-10.24.41:101][326]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2026.05.11-10.24.41:114][326]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.11-10.24.41:115][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.11-10.24.41:115][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.11-10.24.41:115][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.11-10.24.41:115][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.11-10.24.41:115][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.11-10.24.41:119][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.11-10.24.41:539][326]LogAudioMixer: Display: Using Audio Hardware Device Speakers (SoundWire Speakers)
+[2026.05.11-10.24.41:540][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.11-10.24.41:540][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.11-10.24.41:540][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.11-10.24.41:542][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.05.11-10.24.41:542][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.05.11-10.24.41:547][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.05.11-10.24.41:547][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.05.11-10.24.41:548][326]LogInit: FAudioDevice initialized with ID 8.
+[2026.05.11-10.24.41:548][326]LogAudio: Display: Audio Device (ID: 8) registered with world 'Untitled'.
+[2026.05.11-10.24.41:548][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.11-10.24.41:561][326]LogLoad: Game class is 'GameModeBase'
+[2026.05.11-10.24.41:565][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2026.05.11-11.24.41
+[2026.05.11-10.24.41:566][326]LogWorld: Bringing up level for play took: 0.003188
+[2026.05.11-10.24.41:571][326]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.05.11-10.24.41:589][326]PIE: 登陆的服务器
+[2026.05.11-10.24.41:590][326]PIE: PIE总开始时间：0.536秒。
+[2026.05.11-10.25.02:098][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3984.642822
+[2026.05.11-10.25.02:429][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-10.25.02:429][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3984.951172, Update Interval: 332.190918
+[2026.05.11-10.25.13:015][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.25.13:015][ 11]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Untitled
+[2026.05.11-10.25.13:015][ 11]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.05.11-10.25.13:017][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.25.13:017][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2026.05.11-10.25.13:017][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2026.05.11-10.25.13:024][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.11-10.25.13:028][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-10.25.13:056][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-10.25.13:057][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.11-10.25.13:057][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.05.11-10.25.13:061][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.05.11-10.25.13:077][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.05.11-10.25.13:217][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.05.11-10.25.59:126][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.05.11-10.26.00:241][895]LogSlate: Window '保存内容' being destroyed
+[2026.05.11-10.26.00:266][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.11-10.26.00:486][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.11-10.26.00:498][895]LogSavePackage: Moving output files for package: /Game/Maps/Untitled
+[2026.05.11-10.26.00:500][895]LogSavePackage: Moving '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/Untitled67A66A1D4DE4FA5D5B9C8092C5A6A627.tmp' to '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Content/Maps/Untitled.umap'
+[2026.05.11-10.26.00:515][895]LogFileHelpers: Saving map 'Untitled' took 0.069
+[2026.05.11-10.26.00:515][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Groundenemies/02/BP_AAGun] ([2] browsable assets)...
+[2026.05.11-10.26.00:568][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Groundenemies/02/BP_AAGun.BP_AAGun]
+[2026.05.11-10.26.00:568][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Groundenemies/02/BP_AAGun]
+[2026.05.11-10.26.00:589][895]LogSavePackage: Moving output files for package: /Game/Groundenemies/02/BP_AAGun
+[2026.05.11-10.26.00:591][895]LogSavePackage: Moving '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/BP_AAGun53EA929D4DE5F8E44910DF89143F95F5.tmp' to '../../../../../../Users/u5685806/Documents/GitHub/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Content/Groundenemies/02/BP_AAGun.uasset'
+[2026.05.11-10.26.00:608][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 342.055 ms
+[2026.05.11-10.26.00:775][895]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.11-10.26.00:775][895]LogContentValidation: Enabled validators:
+[2026.05.11-10.26.00:776][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.11-10.26.00:776][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.11-10.26.00:776][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.11-10.26.00:776][895]LogContentValidation: Display: Validating asset /Game/Maps/Untitled.Untitled
+[2026.05.11-10.26.00:777][895]AssetCheck: /Game/Maps/Untitled 正在验证资产
+[2026.05.11-10.26.00:777][895]LogContentValidation: Display: Validating asset /Game/Groundenemies/02/BP_AAGun.BP_AAGun
+[2026.05.11-10.26.00:777][895]AssetCheck: /Game/Groundenemies/02/BP_AAGun 正在验证资产
