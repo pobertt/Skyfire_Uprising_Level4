@@ -16240,3 +16240,110 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2026.05.12-14.59.19:328][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.12-14.59.19:328][421]LogContentValidation: Display: Validating asset /Game/JetPlaneMap/Blueprints/BP_Airplane.BP_Airplane
 [2026.05.12-14.59.19:328][421]AssetCheck: /Game/JetPlaneMap/Blueprints/BP_Airplane Validating asset
+[2026.05.12-15.00.21:911][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.05.12-15.00.23:921][260]LogSlate: Window 'Save Content' being destroyed
+[2026.05.12-15.00.23:928][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.12-15.00.23:946][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/JetPlaneMap/Blueprints/BP_Airplane] ([2] browsable assets)...
+[2026.05.12-15.00.23:946][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/JetPlaneMap/Blueprints/BP_Airplane]
+[2026.05.12-15.00.23:978][260]LogSavePackage: Moving output files for package: /Game/JetPlaneMap/Blueprints/BP_Airplane
+[2026.05.12-15.00.23:979][260]LogSavePackage: Moving '../../../../GamesDev/CloneStore/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/BP_AirplaneD282D8404E576188246522B8C4E26C82.tmp' to '../../../../GamesDev/CloneStore/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Content/JetPlaneMap/Blueprints/BP_Airplane.uasset'
+[2026.05.12-15.00.23:981][260]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JetPlaneMap/Blueprints/BP_Airplane_Controls] ([2] browsable assets)...
+[2026.05.12-15.00.23:986][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JetPlaneMap/Blueprints/BP_Airplane_Controls.BP_Airplane_Controls]
+[2026.05.12-15.00.23:986][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/JetPlaneMap/Blueprints/BP_Airplane_Controls]
+[2026.05.12-15.00.24:019][260]LogSavePackage: Moving output files for package: /Game/JetPlaneMap/Blueprints/BP_Airplane_Controls
+[2026.05.12-15.00.24:019][260]LogSavePackage: Moving '../../../../GamesDev/CloneStore/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Saved/BP_Airplane_ControlsCE3E2C4E464C89DD9E28F0BB021D6B56.tmp' to '../../../../GamesDev/CloneStore/Skyfire_Uprising_Level4/SkyfireUprisingLvl4/Content/JetPlaneMap/Blueprints/BP_Airplane_Controls.uasset'
+[2026.05.12-15.00.24:030][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.911 ms (total: 1.08 sec)
+[2026.05.12-15.00.24:059][260]LogStall: Shutdown...
+[2026.05.12-15.00.24:063][260]LogStall: Shutdown complete.
+[2026.05.12-15.00.24:117][260]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:117][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:163][260]LogSlate: Window 'SkyfireUprisingLvl4 - Unreal Editor' being destroyed
+[2026.05.12-15.00.24:232][260]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.12-15.00.24:232][260]LogContentValidation: Enabled validators:
+[2026.05.12-15.00.24:232][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.12-15.00.24:232][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.12-15.00.24:232][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.12-15.00.24:232][260]LogContentValidation: Display: Validating asset /Game/JetPlaneMap/Blueprints/BP_Airplane.BP_Airplane
+[2026.05.12-15.00.24:232][260]AssetCheck: /Game/JetPlaneMap/Blueprints/BP_Airplane Validating asset
+[2026.05.12-15.00.24:232][260]LogContentValidation: Display: Validating asset /Game/JetPlaneMap/Blueprints/BP_Airplane_Controls.BP_Airplane_Controls
+[2026.05.12-15.00.24:232][260]AssetCheck: /Game/JetPlaneMap/Blueprints/BP_Airplane_Controls Validating asset
+[2026.05.12-15.00.24:255][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.05.12-15.00.24:276][260]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.05.12-15.00.24:277][260]Cmd: QUIT_EDITOR
+[2026.05.12-15.00.24:277][261]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.12-15.00.24:282][261]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.12-15.00.24:282][261]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.12-15.00.24:283][261]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.12-15.00.24:290][261]LogWorld: UWorld::CleanupWorld for InteractionMap_l4, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:290][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:290][261]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Content_Level4/InteractionMap_Level4/InteractionMap_l4.InteractionMap_l4
+[2026.05.12-15.00.24:291][261]LogContentBundle: [InteractionMap_l4(Standalone)] Deleting container.
+[2026.05.12-15.00.24:291][261]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2026.05.12-15.00.24:291][261]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2026.05.12-15.00.24:300][261]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.12-15.00.24:306][261]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:306][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:309][261]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:309][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:311][261]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:311][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:313][261]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:314][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:316][261]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-15.00.24:316][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-15.00.24:513][261]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.12-15.00.24:517][261]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.05.12-15.00.24:518][261]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.05.12-15.00.24:518][261]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.05.12-15.00.24:829][261]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.12-15.00.24:830][261]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.12-15.00.24:830][261]LogAudio: Display: Audio Device unregistered from world 'InteractionMap_l4'.
+[2026.05.12-15.00.24:830][261]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.12-15.00.24:830][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.12-15.00.24:831][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.05.12-15.00.24:834][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.12-15.00.24:834][261]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.12-15.00.24:835][261]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.05.12-15.00.24:837][261]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.12-15.00.24:838][261]LogExit: Preparing to exit.
+[2026.05.12-15.00.24:870][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.24:873][261]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.12-15.00.25:250][261]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.12-15.00.25:276][261]LogExit: Editor shut down
+[2026.05.12-15.00.25:277][261]LogExit: Transaction tracking system shut down
+[2026.05.12-15.00.25:540][261]LogExit: Object subsystem successfully closed.
+[2026.05.12-15.00.25:627][261]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.12-15.00.25:947][261]MemoryProfiler: Shutdown
+[2026.05.12-15.00.25:948][261]NetworkingProfiler: Shutdown
+[2026.05.12-15.00.25:948][261]LoadingProfiler: Shutdown
+[2026.05.12-15.00.25:949][261]TimingProfiler: Shutdown
+[2026.05.12-15.00.26:238][261]LogOpenImageDenoise: OIDN shutting down
+[2026.05.12-15.00.26:520][261]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.05.12-15.00.26:521][261]RenderDocPlugin: plugin has been unloaded.
+[2026.05.12-15.00.26:554][261]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.12-15.00.26:554][261]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFD7D2F5-48A6-1B81-419A-41AC6F6EDAC8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=ebd8f3ae4cc861588c13c1990ae6b242%7C312edb14202142e48fbf4c176ab42f13%7Cbef26c0f-4a05-48a5-895f-1c1a23d51e12&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.12-15.00.26:598][261]LogXGEController: Cleaning working directory: C:/Users/Robert Grimwade/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.12-15.00.26:608][261]LogPakFile: Destroying PakPlatformFile
+[2026.05.12-15.00.26:660][261]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.12-15.00.26:684][261]LogExit: Exiting.
+[2026.05.12-15.00.26:707][261]Log file closed, 05/12/26 16:00:26
